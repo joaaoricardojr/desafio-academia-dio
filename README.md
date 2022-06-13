@@ -62,7 +62,7 @@ Indica qual é o lado inverso ou não dominante da relação.
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la"). Utilizado por [joaaoricardojr] para realização do desafio do Bootcamp Carrefour Web Developer durante o desafio de conclusão ministrado por [cami-la].
+Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la"). Utilizado por [joaaoricardojr](https://www.linkedin.com/in/joaaoricardojr/ "joaaoricardojr") para realização do desafio do Bootcamp Carrefour Web Developer durante o desafio de conclusão ministrado por [cami-la](https://github.com/cami-la/desafio-academia-digital "cami-la").
 
 
 
